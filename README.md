@@ -1,3 +1,27 @@
+# Network
+
+IP address for the first network service
+associated with the given interface (`en0` in the example)
+```
+$ ipconfig getifaddr en0
+```
+
+# Recipe for a new js module
+
+```
+$ git clone git@github.com:riccardoscalco/outset-js-module.git my-new-module
+$ cd my-new-repo
+$ rm -rf .git
+
+Create a repo on Github
+$ git init
+$ git ..
+
+$ npm install xo
+Edit...
+$ npm publish
+```
+
 
 # Git
 
