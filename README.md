@@ -1,3 +1,11 @@
+# Markdown
+
+Compile Markdown to HTML
+```
+$ npm install -g marker
+$ marker -i file.md -o file.html --gfm
+```
+
 # Network
 
 IP address for the first network service
