@@ -1,3 +1,10 @@
+# Files
+
+Search a word in a file
+```
+$ grep -c '\<word\>' file.csv
+```
+
 # Markdown
 
 Compile Markdown to HTML
