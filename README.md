@@ -1,6 +1,6 @@
 # Files
 
-Search a word in a file
+Count a word in a file
 ```
 $ grep -c '\<word\>' file.csv
 ```
